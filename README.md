@@ -1,10 +1,3 @@
-# 3-weeks-Google-Prep
-
-## [How I Cracked my Dream Company GOOGLE](https://youtu.be/YlP7CWpHgS4)
-
-## [For rest of the topics I reffered my DSA Sheet Questions](https://www.youtube.com/watch?v=NXQi_g1pVqI/)
-
-### These are some selected questions apart from my DSA Sheet that I solved to prepare for my Google interviews
 
 - Graphs
   - 01. Representation
@@ -62,5 +55,3 @@
 - Rest of the Topic
   - Readme.md
 - README.md
-
-## BONUS ;) [Learn from me](https://www.youtube.com/c/LeadCodingbyFRAZ)
